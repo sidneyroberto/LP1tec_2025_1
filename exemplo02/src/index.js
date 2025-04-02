@@ -9,9 +9,6 @@ function exibirMensagem(mensagem) {
   console.log(mensagem); // Este é o corpo da função
 }
 
-// Executa a função
-exibirMensagem("Alguma coisa");
-
 /**
  * Calcula o montante (valor total) de um empréstimo.
  */
@@ -21,8 +18,6 @@ function calcularValorTotalEmprestimo(valor, taxaJuros, qtdeParcelas) {
   // Retorna o valor calculado para quem invocou a função calcularValorTotalEmprestimo
   return valorTotal;
 }
-
-console.log(calcularValorTotalEmprestimo(6000, 0.9, 96));
 
 /**
  * Calcula o valor da prestação mensal de um empréstimo
@@ -38,4 +33,4 @@ function calcularValorPrestacaoEmprestimo(valor, taxaJuros, qtdeParcelas) {
   return valorPrestacao;
 }
 
-console.log(calcularValorPrestacaoEmprestimo(6000, 0.9, 96));
+module.exports = { calcularValorTotalEmprestimo };
