@@ -1,7 +1,7 @@
 const { altura, massa } = require("./dados.json");
 
-export function calcularIMC(altura, massa) {
-  const imc = peso / (altura * altura);
+function calcularGrauObesidade(altura, massa) {
+  const imc = massa / (altura * altura);
 
   if (imc < 18.5) {
     return "Abaixo do peso";
@@ -25,3 +25,5 @@ export function calcularIMC(altura, massa) {
 
   return "Obesidade de grau III";
 }
+
+module.exports = { calcularGrauObesidade };
