@@ -1,7 +1,7 @@
 function media(conjunto) {
   // Soma todos os valores
   let soma = 0; // acumulador
-  for (let i = 0; i < conjunto.length; i++) {
+  for (let i = conjunto.length - 1; i > -1; i--) {
     soma = soma + conjunto[i];
   }
 
