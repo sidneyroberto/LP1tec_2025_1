@@ -4,7 +4,7 @@ O médico é muito idiota.
 O colega é muito estúpido.
 O motorista é muito arrogante.
 O atendente é muito mesquinho.
-A professora é muito sincero.
+A professora é muito sincera.
 O técnico é muito idiota.
 O atendente é muito mesquinho.
 O aluno é muito criativo.
@@ -13,29 +13,29 @@ O vendedor é muito mesquinho.
 O motorista é muito mal-educado.
 O técnico é muito rude.
 O policial é muito gentil.
-A diretora é muito dedicado.
-Ela é muito respeitoso.
+A diretora é muito dedicada.
+Ela é muito respeitosa.
 O aluno é muito atencioso.
 O colega é muito gentil.
-A diretora é muito generoso.
-A enfermeira é muito lento.
+A diretora é muito generosa.
+A enfermeira é muito lenta.
 O gerente é muito idiota.
 Ele é muito estúpido.
 O gerente é muito insensível.
-A professora é muito grosseiro.
+A professora é muito grosseira.
 O gerente é muito gentil.
 O colega é muito idiota.
 O motorista é muito burro.
 O técnico é muito amável.
-A funcionária é muito mal-educado.
+A funcionária é muito mal-educada.
 O colega é muito arrogante.
 O vendedor é muito inútil.
 Ele é muito estúpido.
 O técnico é muito desleixado.
-A diretora é muito mesquinho.
+A diretora é muito mesquinha.
 O gerente é muito encantador.
-A diretora é muito desleixado.
-A enfermeira é muito educado.
+A diretora é muito desleixada.
+A enfermeira é muito educada.
 O colega é muito esforçado.
 O vendedor é muito preguiçoso.
 Ela é muito amável.
@@ -46,49 +46,49 @@ A diretora é muito forte.
 A professora é muito gentil.
 O aluno é muito capaz.
 Ele é muito idiota.
-Ela é muito burro.
+Ela é muito burra.
 O atendente é muito grosseiro.
 O motorista é muito burro.
 O motorista é muito generoso.
 O policial é muito arrogante.
-Ela é muito burro.
+Ela é muito burra.
 O médico é muito gentil.
-A diretora é muito grosseiro.
+A diretora é muito grosseira.
 O técnico é muito forte.
 Ela é muito brilhante.
-Ela é muito desleixado.
+Ela é muito desleixada.
 O aluno é muito desleixado.
 O vendedor é muito criativo.
 O colega é muito insensível.
 O vendedor é muito esforçado.
 O policial é muito preguiçoso.
-A professora é muito encantador.
-A professora é muito grosseiro.
+A professora é muito encantadora.
+A professora é muito grosseira.
 A enfermeira é muito irresponsável.
 Ele é muito atencioso.
 O motorista é muito burro.
 O técnico é muito amável.
-A funcionária é muito educado.
+A funcionária é muito educada.
 O motorista é muito generoso.
 O colega é muito burro.
-A enfermeira é muito generoso.
+A enfermeira é muito generosa.
 O gerente é muito lento.
 O gerente é muito gentil.
-A funcionária é muito mesquinho.
+A funcionária é muito mesquinha.
 O aluno é muito brilhante.
-A funcionária é muito desleixado.
+A funcionária é muito desleixada.
 O policial é muito rude.
 O gerente é muito alegre.
 O gerente é muito inteligente.
-A funcionária é muito generoso.
-A professora é muito burro.
+A funcionária é muito generosa.
+A professora é muito burra.
 Ele é muito estúpido.
 O técnico é muito lento.
 O policial é muito inútil.
 O técnico é muito irresponsável.
 O vendedor é muito respeitoso.
-Ela é muito sincero.
-A diretora é muito preguiçoso.
+Ela é muito sincera.
+A diretora é muito preguiçosa.
 O motorista é muito educado.
 O aluno é muito desleixado.
 Ela é muito capaz.
