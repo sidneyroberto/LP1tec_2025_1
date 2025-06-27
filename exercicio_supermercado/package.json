@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "name": "exercicio_supermercado",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
