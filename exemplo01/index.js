@@ -1,4 +1,3 @@
-const estudante = require("./estudante.json");
+const estudantes = require("./estudantes.json");
 
-console.log("Nome: ", estudante.nome);
-console.log("Idade: ", estudante.idade);
+console.log(estudantes[0]);
